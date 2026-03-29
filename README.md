@@ -1,4 +1,33 @@
+# AI Career Guidance System
 
+The AI Career Guidance System is an intelligent web-based application designed to provide personalized career recommendations based on user inputs such as skills, interests, and academic background.
+
+This system uses machine learning techniques to analyze user data and suggest suitable career paths, helping individuals make informed decisions about their future.
+
+## Key Features:
+- Personalized career recommendations
+- Interactive user interface
+- Machine learning-based predictions
+- Real-time input processing
+
+## Data Preprocessing:
+- Assisted in collecting and organizing career-related dataset
+- Performed basic data cleaning (handling missing values and inconsistencies)
+- Applied simple transformations such as encoding categorical data
+- Helped in selecting relevant features for model training
+
+## My Contributions:
+- Contributed to data preprocessing and dataset preparation
+- Assisted in improving model input features
+- Supported backend logic for handling user inputs
+- Made minor UI improvements
+- Participated in testing and debugging
+- Collaborated with team member throughout development
+
+## Tech Stack:
+- Frontend: HTML, CSS, JavaScript
+- Backend: Python
+- Machine Learning: Scikit-learn, Pandas, NumPy
 
 # 🚀 AI Career Guidance System
 
